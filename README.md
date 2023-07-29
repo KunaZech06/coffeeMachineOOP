@@ -1,2 +1,2 @@
-# coffeeMachineOOP
-Fun Coffee machine using Python OOP
+# Coffee Machine
+Fun Coffee machine using Python OOP. =)
